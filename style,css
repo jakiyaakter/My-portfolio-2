@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    background: #fff;
+    border: 0;
+    color: aqua;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px
+}
+
+.section-title{
+    color: aquamarine;
+    text-align: center;
+    font-size: 18px;
+}
+.section--description{
+    color: beige;
+    text-align: center;
+    font-size: 18px;
+}
+
+/* nav related style */
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 200px;
+}
+
+.nav-title{
+    color: blueviolet;
+    font-size: 45px;
+    font-weight: 800;
+}
+nav>ul{
+    display: flex;
+    align-items: center;
+}
