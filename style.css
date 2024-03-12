@@ -41,3 +41,13 @@ nav>ul{
     display: flex;
     align-items: center;
 }
+
+.form-area{
+    width: 30%;
+    margin: auto;
+    background-color:aqua;
+    padding: 20px;
+    margin-top: 10%;
+    border-radius: 20px;
+    box-shadow: aqua;
+}

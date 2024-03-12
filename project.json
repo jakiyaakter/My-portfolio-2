@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "images": "https://i.ibb.co/zrJKR5N/award-01.png",
+        "name":"Awards",
+        "skill":"HTML,CSS,JavaScript,Bootstrap",
+        "ditails":"https://jakiyaakter.github.io/My-portfolio-2/"
+    },
+    {
+            "id":2,
+            "images": "https://i.ibb.co/nB6198N/award-02.png",
+            "name":"Awards",
+            "skill":"HTML,CSS,JavaScript,Bootstrap,Tailwind CSS",
+            "ditails":"https://jakiyaakter.github.io/My-portfolio-2/"
+    },
+     {
+                "id":3,
+                "images": "https://i.ibb.co/4md9QdP/award-03.png",
+                "name":"Awards",
+                "skill":"HTML,CSS,JavaScript,Bootstrap,Tailwind CSS",
+                "ditails":"https://jakiyaakter.github.io/My-portfolio-2/"
+     }
+]
